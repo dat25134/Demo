@@ -112,15 +112,15 @@ form{
     display: none;
 }
 
-@media screen and (max-width:375px){
+@media screen and (max-width:450px){
     .containerRight{
         display: none;
     }
     .image-moblie{
         display: inline-block;
         position: absolute;
-        width: 405px;
-        height: 280px;
+        width: 485px;
+        height: 330px;
         top: 156px;
         left: 0px;
 
@@ -137,7 +137,7 @@ form{
     h1{
         text-align: center;
         font-weight: 25;
-        margin-top: 300px;
+        margin-top: 330px;
     }
     p{
         margin-top: 25px;
